@@ -1,0 +1,9 @@
+{
+    "name": "nguyenmanh/code-and-punch",
+    "require": {
+        "php" : "^7.4.3"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
